@@ -40,7 +40,7 @@ map.html
             GORIPALAYAM
         </h1>
         <h3 align="left" style="font-family: 'Courier New', Courier, monospace;font-size: small; color: blue;">
-            SHARAN 24010956
+            MOHAMED FAROOK S
         </h3>
         <img src="map.png" usemap="#MyCity" height="880" width="1354">
         <img src="map.png" usemap="#image-map">
@@ -217,7 +217,7 @@ park.html
 
 ## OUTPUT
 
-![alt text](<Screenshot (21).png>)
+![Alt text](image.png)
 ![alt text](<Screenshot (16).png>)
 ![alt text](<Screenshot (17).png>)
 ![alt text](<Screenshot (18).png>)
